@@ -9,7 +9,7 @@ public class ProductServiceApplication {
     public static void main(String[] args) {
         SpringApplication.run(ProductServiceApplication.class, args);
     }
-    public static String aa(){
+    public static String bb(){
             return "null";
     }
 }
