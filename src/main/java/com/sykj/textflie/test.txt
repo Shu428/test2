@@ -3,5 +3,6 @@ This is test flie
 
 git好用还是SVN好用
 
-git==>git commit
-SVN ==> SVN commit
+
+SVN ==> SVN commit222222
+
