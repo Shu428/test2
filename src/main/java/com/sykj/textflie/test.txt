@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-this is text-dev flie
- git 好用还是SVN 好用
-=======
+
 This is test flie
 
 git好用还是SVN好用
->>>>>>> master
+
